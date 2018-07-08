@@ -1,0 +1,22 @@
+{
+  "name": "tox-aws-gitlab",
+  "version": "0.0.0",
+  "description": "playground for AWS and gitlab stuff ...",
+  "author": "Enrico Hoffmann <dasrick@gmail.com>",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dasrick/tox-aws-gitlab.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dasrick/tox-aws-gitlab/issues"
+  },
+  "homepage": "https://github.com/dasrick/tox-aws-gitlab#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.270.1"
+  }
+}
